@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 2\01.Arrays\07.Selection sort\bin\Debug\07.Selection sort.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 2\01.Arrays\07.Selection sort\bin\Debug\07.Selection sort.exe
+C:\Users\paFko\Desktop\Telerik\C# part 2\01.Arrays\07.Selection sort\bin\Debug\07.Selection sort.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 2\01.Arrays\07.Selection sort\obj\Debug\07.Selection sort.exe
+C:\Users\paFko\Desktop\Telerik\C# part 2\01.Arrays\07.Selection sort\obj\Debug\07.Selection sort.pdb

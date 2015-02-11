@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 2\01.Arrays\10.Find sum in array\bin\Debug\10.Find sum in array.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 2\01.Arrays\10.Find sum in array\bin\Debug\10.Find sum in array.exe
+C:\Users\paFko\Desktop\Telerik\C# part 2\01.Arrays\10.Find sum in array\bin\Debug\10.Find sum in array.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 2\01.Arrays\10.Find sum in array\obj\Debug\10.Find sum in array.exe
+C:\Users\paFko\Desktop\Telerik\C# part 2\01.Arrays\10.Find sum in array\obj\Debug\10.Find sum in array.pdb

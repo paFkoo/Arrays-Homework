@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 2\01.Arrays\05.Maximal increasing sequence\bin\Debug\05.Maximal increasing sequence.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 2\01.Arrays\05.Maximal increasing sequence\bin\Debug\05.Maximal increasing sequence.exe
+C:\Users\paFko\Desktop\Telerik\C# part 2\01.Arrays\05.Maximal increasing sequence\bin\Debug\05.Maximal increasing sequence.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 2\01.Arrays\05.Maximal increasing sequence\obj\Debug\05.Maximal increasing sequence.exe
+C:\Users\paFko\Desktop\Telerik\C# part 2\01.Arrays\05.Maximal increasing sequence\obj\Debug\05.Maximal increasing sequence.pdb

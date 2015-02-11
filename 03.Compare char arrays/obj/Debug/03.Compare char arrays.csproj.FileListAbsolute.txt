@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 2\01.Arrays\03.Compare char arrays\bin\Debug\03.Compare char arrays.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 2\01.Arrays\03.Compare char arrays\bin\Debug\03.Compare char arrays.exe
+C:\Users\paFko\Desktop\Telerik\C# part 2\01.Arrays\03.Compare char arrays\bin\Debug\03.Compare char arrays.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 2\01.Arrays\03.Compare char arrays\obj\Debug\03.Compare char arrays.exe
+C:\Users\paFko\Desktop\Telerik\C# part 2\01.Arrays\03.Compare char arrays\obj\Debug\03.Compare char arrays.pdb

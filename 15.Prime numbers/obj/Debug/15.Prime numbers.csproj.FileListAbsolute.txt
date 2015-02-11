@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 2\01.Arrays\15.Prime numbers\bin\Debug\15.Prime numbers.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 2\01.Arrays\15.Prime numbers\bin\Debug\15.Prime numbers.exe
+C:\Users\paFko\Desktop\Telerik\C# part 2\01.Arrays\15.Prime numbers\bin\Debug\15.Prime numbers.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 2\01.Arrays\15.Prime numbers\obj\Debug\15.Prime numbers.exe
+C:\Users\paFko\Desktop\Telerik\C# part 2\01.Arrays\15.Prime numbers\obj\Debug\15.Prime numbers.pdb
